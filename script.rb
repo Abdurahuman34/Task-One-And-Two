@@ -76,7 +76,8 @@ student["age"] = 26
 
 #Print the modified hash.
 puts student
-
+# print the modified hash
+puts student 
 #Check if the hash contains a key "gender"
 if person.has_key?("gender")
     puts "Contains the key 'gender'."
